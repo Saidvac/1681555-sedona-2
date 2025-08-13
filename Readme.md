@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Саид Урусханов](https://up.htmlacademy.ru/htmlcss-individual/2/user/1681555).
-* Наставник: `Неизвестно`.
+* Наставник: [Ярослав Шевцов](https://htmlacademy.ru/profile/redx).
 
 ---
 
